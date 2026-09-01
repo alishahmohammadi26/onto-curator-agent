@@ -192,3 +192,5 @@ Associate Director, FAIR Data Strategy & Digital Connectivity — Takeda Pharmac
 ## License
 
 MIT — see [LICENSE](LICENSE)
+
+<!-- maintained-note: keep this repo tidy -->
